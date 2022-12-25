@@ -1,2 +1,2 @@
 # QuizApp
-Random Quiz Generation using React
+Random Trivia Game generation using React
